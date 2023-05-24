@@ -1,7 +1,8 @@
 ## Hi ! Nice to see you.👍 
 <br />
 <h/2> <h/2>
-Welcome to my page!
+Welcome to my page !
+<br />
 I'm Juhwan Yu, and I'm dreaming of becoming an embedded firmware developer 🖥
 <p>
   <em>
