@@ -9,7 +9,7 @@ I'm Juhwan Yu, and I'm dreaming of becoming an embedded firmware developer 🖥
     <h3>
 
 ### Study Bolg
- [Blog](https://blog.naver.com/u_j00)
+ -> [Blog](https://blog.naver.com/u_j00)
   
       
 <p>
