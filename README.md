@@ -3,7 +3,7 @@
 <h/2> <h/2>
 Welcome to my page !
 <br />
-I'm Juhwan Yu, and I'm dreaming of becoming an embedded firmware developer 🖥
+I'm Juhwan Yu, and I'm studying an embedded firmware 🖥
 <p>
   <em>
     <h3>
